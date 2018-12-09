@@ -1,0 +1,45 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Urbano"
+subtitle = "Visualizaciones urbanas"
+theme = "hugo-titi"
+googleAnalytics = ""
+disqusShortname = "Datasketch"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+publishDir = "docs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+#Parametros de configuración
+
+[params]
+css = ["custom.css"]
+#footer
+[params.footer]
+text =  "Siguenos en . [Datasketch] (https://www.datasketch.co)"
+bg = "white"
+color =  "blue"
+
+
+[params.nav]
+bg =  "#B70F7F"
+color = "white"
+logo = "images/ds.png"
+logoWidth = "150px"
+
+[[params.social]]
+icon = "twitter"
+url = "https://twitter.com/datasketch"
+
+[[params.social]]
+icon = "facebook-f"
+url = "https://facebook.com/datasketch"
+
+[[params.social]]
+icon = "instagram"
+url = "https://www.instagram.com/datasketch/"
+
+
+
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Urbano</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Urbano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Dec 2018 19:40:03 -0500</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Haztupropiourbano</title>
+      <link>/posts/haztupropiourbano/</link>
+      <pubDate>Sat, 08 Dec 2018 19:40:03 -0500</pubDate>
+      
+      <guid>/posts/haztupropiourbano/</guid>
+      <description>Haz tu propio Urbano ##Urbano está diseñado para que tenga una duración de aproximadamente 3 horas, distribuidos de la siguiente manera:
+ 10 minutos de introducción 5 minutos para que las personas se organicen en grupos de 3 personas y repartir 1 kit por cada grupo de 3-5 personas 1-11/2hrs para realizar las visualizaciones que contiene el kit 15 min para que los grupos hagan registro fotográfico con sus intervenciones 30 min para recorrer las visualizaciones de los otros grupos 30 min para hacer limpieza del espacio donde se hicieron las visualizaciones (a menos que tengan el permiso para dejarlas en el espacio).</description>
+    </item>
+    
+  </channel>
+</rss>

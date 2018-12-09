@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urbano</title>
+    <link>/</link>
+    <description>Recent content on Urbano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Dec 2018 18:48:37 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Haztupropiourbano</title>
+      <link>/posts/haztupropiourbano/</link>
+      <pubDate>Sat, 08 Dec 2018 19:40:03 -0500</pubDate>
+      
+      <guid>/posts/haztupropiourbano/</guid>
+      <description>Haz tu propio Urbano ##Urbano está diseñado para que tenga una duración de aproximadamente 3 horas, distribuidos de la siguiente manera:
+ 10 minutos de introducción 5 minutos para que las personas se organicen en grupos de 3 personas y repartir 1 kit por cada grupo de 3-5 personas 1-11/2hrs para realizar las visualizaciones que contiene el kit 15 min para que los grupos hagan registro fotográfico con sus intervenciones 30 min para recorrer las visualizaciones de los otros grupos 30 min para hacer limpieza del espacio donde se hicieron las visualizaciones (a menos que tengan el permiso para dejarlas en el espacio).</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+    </item>
+    
+  </channel>
+</rss>
